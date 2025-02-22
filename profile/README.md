@@ -1,48 +1,70 @@
-![Nothing Stops Detroit](https://github.com/BuiltInDetroit/.github/blob/main/static/nothing_stops_detroit_1.jpg) 
+![Nothing Stops Detroit](https://github.com/BuiltInDetroit/.github/blob/main/static/nothing_stops_detroit.avif) 
 
 [![Discord](https://img.shields.io/discord/677517706940907521?label=Discord%20Chat)](https://discord.gg/ssvcVNJ)
 
-# Built In Detroit :heart: Open Source
+# Detroit Hard Tech :heart: Open Source
 
 Welcome to our GitHub organization!
 
-**Our mission is to create open and accessible engineering and manufacturing educational experiences and resources.**
+Ready to roll up your sleeves?
 
-## Who we build for
+**Our mission is to create open and accessible educational experiences, as well as, providing material support to Hard Tech development in Detroit.**
 
-:white_check_mark: Looking for a future career in designing a factory?
+## What is "Hard Tech"?
 
-:white_check_mark: Want to know how to design an industrial robot?
+Hard tech, also known as Deep Tech, is a category of technology that combines science and engineering to create extremely complex, breakthrough physical products and systems.
 
-:white_check_mark: How to program robots, controllers or machine tools?
+## What are some examples of Hard Tech?
 
-:white_check_mark: Maybe you have an idea for a physical product, but do not know how to get started with manufacturing it?
+:white_check_mark: Designing new forms of factories and production methods which unlock new flexibilities, efficiencies and industrial/environment safety.
 
-We really want to target people who are interested in the above (and much, much more), but do not have any prior experience at all.
+:white_check_mark: Developing new forms of automation and robotics - both traditional and exotic - that improve accessibility and adoption by industry and consumers.
+
+:white_check_mark: Developing low-cost, but highly-competitive end-to-end transit infrastructure for cash-strapped municipalities - including physical infrastructure and the automated equipment to build it.
+
+:white_check_mark: Identifying and exploiting hard technology verticals that are entrenched in other regions and establishing (re-homing) them in Detroit. Things like designing and building computers, cloud infrastructure, microchips, lithography equipment, heavy cranes, batteries, advanced rail and precision machine tools in Detroit.
+
+## Who can build Hard Tech?
+
+You!
+
+Yep, you! :)
+
+Building Hard Tech is not easy - from from it - but the journey will be rewarding for those interested.
+
+A formal education in engineering or science is helpful and in some cases necessary, but highly-creative people without a formal education were building all kinds of Hard Tech in Detroit long ago.
+
+And Detroit can again. Detroit has the right bones.
 
 Students in high-school and up should be able to actively participate and learn from our events, workshops and other educational content.
 
-We believe that the best engagement comes from practical, hands-on and interactive opportunities and projects along with mutual support.
+We believe that solving big problems come from practical, hands-on and creative opportunities and projects along with mutual support and investment.
 
-## What we are building
+## What will we be doing?
 
-:calendar: Hosting educational events and hands-on workshops.
+We want to be pervasive in Detroit.
 
-:books: Publishing highly-engaging written content that complements workshops and events.
+We want to constantly challenge Detroit.
 
-:computer: Building open-source alternatives for foundational engineering and manufacturing technologies.
+Oftentimes, when encountering a difficult problem, some do not know where to begin or what the possibilities are. That is where we hope to come in!
+
+:calendar: Hosting pop-up events and hands-on workshops all around Detroit. 
+
+:books: Publishing highly-engaging, visual content that complements workshops and events.
+
+:computer: Building open-source alternatives for foundational and difficult engineering and manufacturing technologies.
 
 :classical_building: Maintaining freely-accessible, open technical standards that compete with non-free standards.
 
-:handshake: Supporting other nonprofits, professional technical organizations and open-source efforts that overlap with our mission.
+:handshake: Supporting other nonprofits, professional technical organizations and open-source efforts in Detroit that overlap with our mission in any way.
 
-## Why we build
+## Why are we doing this?
 
-:muscle: We are passionate about helping create the next generation of creators, engineers, builders and manufacturers.
+:muscle: We are passionate about helping create the next generation of creators, engineers, builders and manufacturers working in Hard Tech.
 
-And we feel that too much engineering and industrial knowledge is locked away behind expensive paywalls and walled gardens.
+And the future of Detroit depends on it.
 
-The industry needs to move past that if we are to tackle the manufacturing [skills gap](https://www.census.gov/library/stories/2023/09/manufacturing-faces-labor-shortage.html) and to build an equitable industry of tomorrow.
+Fundamentally, we feel that too much engineering and industrial knowledge is locked away behind expensive paywalls, walled gardens and segregationist education policies.
 
 ## :question: Contact Us
 
@@ -50,6 +72,10 @@ Questions, comments or suggestions? Reach out to us [here](https://forms.gle/ZAp
 
 ## :open_hands: Code of Conduct
 
-Built In Detroit sees value in everyone and we hope to build a welcoming community to contribute, share and grow.
+Detroit Hard Tech sees the potential in **EVERYONE** and we hope to build a diverse and welcoming community to contribute, share and grow.
+
+Recent re-segregationist policies from the US federal government are detestable and are an anathema to the future of Detroit - a city that is ~77% Black and where 1/3 live in poverty.
+
+Segregationist policies and those that support them are not welcome in our spaces or in our work.
 
 Please review our current [Code of Conduct](https://github.com/BuiltInDetroit/.github/blob/main/CODE_OF_CONDUCT.md).

@@ -1,10 +1,10 @@
-# Built In Detroit Code of Conduct
+# Detroit Hard Tech Code of Conduct
 
 We put people first and do our best to recognize, appreciate and respect the
-diversity of our global contributors and participants. Built In Detroit
+diversity of our global contributors and participants. Detroit Hard Tech
 welcomes contributions from everyone who shares our goals and wants to
 contribute in a healthy and constructive manner within our open source community
-and in Built In Detroit-managed open source projects.
+and in Detroit Hard Tech-managed open source projects.
 
 We are committed to providing a welcoming and inspiring community for all.
 People violating these community guidelines may be barred from our community.
@@ -61,7 +61,7 @@ same industry experience as you. Be friendly, patient and helpful.
 ## Scope
 
 These community guidelines apply to all projects, repositories and communities for
-Built In Detroit-managed open source initiatives regardless of whether or not the repository or
+Detroit Hard Tech-managed open source initiatives regardless of whether or not the repository or
 project explicitly calls out its use of these guidelines.
 
 These guidelines also apply in public spaces when an individual is representing a project
@@ -102,7 +102,7 @@ and the [WisCon code of conduct](http://wiscon.net/policies/anti-harassment/code
 
 ## Modifications to these Guidelines
 
-Built In Detroit may amend the guidelines from time to time and may also
+Detroit Hard Tech may amend the guidelines from time to time and may also
 vary the procedures it sets out where appropriate in a particular case. Your
 agreement to comply with the guidelines will be deemed in agreement to any changes
 to it.
