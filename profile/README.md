@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/677517706940907521?label=Discord%20Chat)](https://discord.gg/ssvcVNJ)
 
-# Detroit Hard Tech :heart: Open Source
+# 7DET :heart: Open Source
 
 Welcome to our GitHub organization!
 
@@ -72,7 +72,7 @@ Questions, comments or suggestions? Reach out to us [here](https://forms.gle/ZAp
 
 ## :open_hands: Code of Conduct
 
-Detroit Hard Tech sees the potential in **EVERYONE** and we hope to build a diverse and welcoming community to contribute, share and grow.
+7DET sees the potential in **EVERYONE** and we hope to build a diverse and welcoming community to contribute, share and grow.
 
 Recent re-segregationist policies from the US federal government are detestable and are an anathema to the future of Detroit - a city that is ~77% Black and where 1/3 live in poverty.
 
